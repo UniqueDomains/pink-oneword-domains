@@ -1,0 +1,2 @@
+# pink-oneword-domains
+List of pink one word domain names with availability, expiration date, attractiveness, demand score.
