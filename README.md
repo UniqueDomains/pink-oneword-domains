@@ -1,22 +1,22 @@
-# Available .PINK One-Word Domains (5,621,924)
+# Available .PINK One-Word Domains (9,203)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C198%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C924%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C206%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C203%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .pink one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .pink one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,198-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,924 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,198 rows · **Live catalog:** 5,621,924 domains
+**Public extract:** 9,206 rows · **Live catalog:** 9,203 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/pink`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PINK one-word domain 
 
 ### Files
 
-- `pink.csv` — public CSV extract (9,198 rows)
-- `pink.json` — public JSON extract (9,198 rows)
+- `pink.csv` — public CSV extract (9,206 rows)
+- `pink.json` — public JSON extract (9,206 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,23 +67,23 @@ print(df.head())
 | fortune.pink  | available | $14.99    | —             | 72             | 48     | 7      | name.com                |
 | trade.pink    | resell    | $31.48    | —             | 116            | 46     | 5      | GoDaddy.com, LLC        |
 | easy.pink     | premium   | $14.99    | $37.99        | 128            | 62     | 4      | name.com                |
-| genius.pink   | available | $14.99    | $37.99        | 98             | 47     | 6      | name.com                |
+| snap.pink     | available | $14.99    | $37.99        | 90             | 46     | 4      | name.com                |
 | best.pink     | resell    | —         | —             | 82             | 99     | 4      | Porkbun LLC             |
 | ace.pink      | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                |
-| snap.pink     | available | $14.99    | $37.99        | 90             | 46     | 4      | name.com                |
+| genius.pink   | available | $14.99    | $37.99        | 98             | 45     | 6      | name.com                |
 | white.pink    | resell    | —         | —             | 102            | 98     | 5      | Porkbun LLC             |
 | abc.pink      | premium   | $650      | $650          | 102            | 50     | 3      | namecheap               |
 | strategy.pink | available | $31.48    | —             | 74             | 43     | 8      | namecheap               |
 | apple.pink    | resell    | —         | —             | 98             | 88     | 5      | DNSPod, Inc.            |
-| gold.pink     | premium   | $1,300    | $1,300        | 72             | 49     | 4      | namecheap               |
+| gold.pink     | premium   | $1,300    | $1,300        | 72             | 48     | 4      | namecheap               |
 | track.pink    | available | $14.99    | $37.99        | 94             | 42     | 5      | name.com                |
 | box.pink      | resell    | —         | —             | 68             | 78     | 3      | Unstoppable Domains Inc |
 | car.pink      | premium   | $2,600    | $2,600        | 94             | 46     | 3      | namecheap               |
-| research.pink | available | $31.48    | —             | 92             | 41     | 8      | namecheap               |
-| discover.pink | resell    | —         | —             | 66             | 75     | 8      | NameCheap, Inc.         |
-| health.pink   | premium   | $1,300    | $1,300        | 92             | 45     | 6      | namecheap               |
 | banana.pink   | available | $14.99    | —             | 86             | 41     | 6      | name.com                |
-| hello.pink    | resell    | —         | —             | 130            | 71     | 5      | Porkbun LLC             |
+| discover.pink | resell    | —         | —             | 66             | 75     | 8      | NameCheap, Inc.         |
+| auto.pink     | premium   | $5,200    | $5,200        | 68             | 45     | 4      | namecheap               |
+| content.pink  | available | $14.99    | $37.99        | 138            | 40     | 7      | name.com                |
+| matt.pink     | resell    | —         | —             | 72             | 71     | 4      | Sav.com, LLC            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,198-row public sample | 5,621,924 live domains                           |
+| 9,206-row public sample | 9,203 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
