@@ -82,7 +82,7 @@ print(df.head())
 | banana.pink   | available | $14.99    | —             | 86             | 41     | 6      | name.com                |
 | discover.pink | resell    | —         | —             | 66             | 75     | 8      | NameCheap, Inc.         |
 | auto.pink     | premium   | $5,200    | $5,200        | 68             | 45     | 4      | namecheap               |
-| content.pink  | available | $14.99    | $37.99        | 138            | 40     | 7      | name.com                |
+| content.pink  | available | $14.99    | $37.99        | 138            | 39     | 7      | name.com                |
 | matt.pink     | resell    | —         | —             | 72             | 71     | 4      | Sav.com, LLC            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
