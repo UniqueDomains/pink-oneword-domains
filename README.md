@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pink one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,157 domains · **Median ask:** $31.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/pink`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | finals.pink    | available | $14.99    | —             | 80             | 7      | 6      | name.com         |
 | forces.pink    | available | $14.99    | —             | 82             | 12     | 6      | name.com         |
 | geton.pink     | available | $14.99    | —             | 82             | 10     | 6      | name.com         |
-| popup.pink     | available | $14.99    | —             | 84             | 29     | 6      | name.com         |
+| popup.pink     | available | $14.99    | —             | 84             | 28     | 6      | name.com         |
 | Apples.pink    | available | $31.48    | —             | 90             | 16     | 6      | namecheap        |
 | gearup.pink    | available | $14.99    | —             | 80             | 16     | 7      | name.com         |
 | playin.pink    | available | $14.99    | —             | 80             | 10     | 7      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
