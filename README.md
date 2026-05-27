@@ -82,7 +82,7 @@ print(df.head())
 | farmers.pink   | premium   | $82.50    | —             | 54             | 59     | 7      | name.com         |
 | prompts.pink   | available | $14.99    | —             | 54             | 39     | 7      | name.com         |
 | studios.pink   | resell    | —         | —             | 54             | 21     | 7      | GoDaddy.com, LLC |
-| etc.pink       | premium   | $82.50    | —             | 58             | 34     | 3      | name.com         |
+| etc.pink       | premium   | $82.50    | —             | 58             | 32     | 3      | name.com         |
 | aliens.pink    | available | $14.99    | —             | 56             | 35     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
