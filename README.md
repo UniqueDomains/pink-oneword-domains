@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .pink one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,157 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,157 domains · **Median ask:** $31.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,157 domains · **Median ask:** $35.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/pink`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/pink`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PINK one-word domain 
 
 ### Files
 
-- `pink.csv` — public CSV extract (1,000 rows)
-- `pink.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `pink.csv`, public CSV extract (1,000 rows)
+- `pink.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| homes.pink     | available | $14.99    | —             | 86             | 34     | 5      | name.com         |
-| finals.pink    | available | $14.99    | —             | 80             | 7      | 6      | name.com         |
-| forces.pink    | available | $14.99    | —             | 82             | 12     | 6      | name.com         |
-| geton.pink     | available | $14.99    | —             | 82             | 10     | 6      | name.com         |
-| popup.pink     | available | $14.99    | —             | 84             | 28     | 6      | name.com         |
-| Apples.pink    | available | $31.48    | —             | 90             | 16     | 6      | namecheap        |
-| gearup.pink    | available | $14.99    | —             | 80             | 16     | 7      | name.com         |
-| playin.pink    | available | $14.99    | —             | 80             | 10     | 7      | name.com         |
-| playon.pink    | available | $14.99    | —             | 80             | 14     | 7      | name.com         |
-| toneup.pink    | available | $14.99    | —             | 80             | 5      | 7      | name.com         |
-| watches.pink   | available | $14.99    | —             | 84             | 19     | 7      | name.com         |
-| getlife.pink   | available | $14.99    | —             | 80             | 5      | 8      | name.com         |
-| leaveon.pink   | available | $14.99    | —             | 80             | 1      | 8      | name.com         |
-| shortcuts.pink | available | $14.99    | —             | 48             | 41     | 10     | name.com         |
-| online.pink    | resell    | —         | —             | 70             | 62     | 7      | Porkbun LLC      |
-| farmers.pink   | premium   | $82.50    | —             | 54             | 59     | 7      | name.com         |
-| prompts.pink   | available | $14.99    | —             | 54             | 39     | 7      | name.com         |
-| studios.pink   | resell    | —         | —             | 54             | 21     | 7      | GoDaddy.com, LLC |
-| etc.pink       | premium   | $82.50    | —             | 58             | 32     | 3      | name.com         |
-| aliens.pink    | available | $14.99    | —             | 56             | 35     | 6      | name.com         |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| age.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| bee.pink   | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| ana.pink   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
+| bid.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| new.pink   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 24                            |
+| Ann.pink   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
+| boo.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| fund.pink  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 1                             |
+| atp.pink   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                     |
+| con.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| game.pink  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                              |
+| kit.pink   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                     |
+| coy.pink   | available | $14.99    | $37.99        | medium         | low    | 3      | name.com                                     |
+| mall.pink  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| NYC.pink   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                     |
+| die.pink   | available | $14.99    | —             | medium         | low    | 3      | name.com                                     |
+| pink.pink  | resell    | —         | —             | high           | low    | 4      | Dynadot7 LLC                                 |
+| tap.pink   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                     |
+| dry.pink   | available | $14.99    | $37.99        | high           | low    | 3      | name.com                                     |
+| green.pink | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by a single trait: every name uses the .pink extension and reads as a one-word domain. That creates a distinct profile. Some names are literal and category-led, such as homes.pink or jewels.pink. Others are broader or more suggestive, such as getup.pink or finals.pink. When comparing these domains, focus first on whether the word carries meaning without explanation, whether .pink strengthens or limits that meaning, and whether the ask leaves room for long-term renewal comfort. For founders, the best picks are memorable and easy to say. For investors, the better candidates are clean words with clear end-user relevance at sensible entry prices.
+This selection includes 12,157 one-word domains registered under the .pink extension — names built as a single continuous word, without hyphens or numbers. Sample names such as butterflies.pink, affirmation.pink, and bonappetit.pink show the playful, lifestyle-driven tone common across this TLD. The median asking price across the set is near $36, putting most names within reach for early testing or first registration. Because .pink is a smaller, non-mainstream extension, renewal costs and long-term demand should be checked name by name before committing.
 
-- All names in this set use the .pink extension
-- Examples include homes.pink, jewels.pink, and ladies.pink
-- Median ask is 31.97 across 12,150 domains
-- Favor words that stay clear when paired with .pink
+- 12,157 one-word .pink domains available for review
+- Median asking price near $36 across the full set
+- Single-word format only — no hyphens or numbers
+- Lifestyle, beauty, and feel-good naming style common to .pink
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
