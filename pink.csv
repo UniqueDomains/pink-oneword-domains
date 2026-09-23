@@ -1,10 +1,10 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-4dbd50d8-0f56-44ea-89c6-ffdf3da65ece,enliven.pink,available,14.99,,high,low,7,name.com,,,
+4dbd50d8-0f56-44ea-89c6-ffdf3da65ece,enliven.pink,available,14.49,25.99,medium,low,7,namesilo,,,22/09/2026 04:56
 13de6b1f-c604-42ad-b76b-25fa9754a812,cashmachine.pink,available,14.99,,medium,low,12,name.com,,,
 49d67220-1b93-4444-8e3d-15075ee28c01,floormanager.pink,available,14.99,,high,low,13,name.com,,,
 ba2912c4-a604-407c-a36b-7dd02d2feb85,aftermost.pink,available,6.48,31.48,low,low,9,namecheap,,,
 c8f3b937-f0ef-4653-8c41-e9bfac607ae8,abyssal.pink,available,6.48,31.48,low,low,7,namecheap,,,
-740268de-b2af-4852-a1f0-a0ed2bb20d2e,supporter.pink,available,14.99,,medium,low,9,name.com,,,
+740268de-b2af-4852-a1f0-a0ed2bb20d2e,supporter.pink,available,14.49,25.99,low,low,9,namesilo,,,22/09/2026 10:07
 807f398c-6976-4d1a-9e0f-f19c8fd2cba0,lego.pink,available,,,high,low,4,,,,
 6ac5045f-91dc-4400-b663-9aaae074e87c,assignable.pink,available,6.48,31.48,low,low,10,namecheap,,,07/08/2026 06:19
 4cff9392-d37b-434a-afbe-f6202b7405c1,middleclass.pink,available,14.99,,medium,low,12,name.com,,,
@@ -14,22 +14,21 @@ ad253be0-08d5-409f-a7cb-bd60bfb915f6,alarmed.pink,available,6.48,31.48,low,low,7
 3355d75f-7d37-4180-a796-71089f8795b3,bachelor.pink,available,14.99,,high,low,8,name.com,,,
 63e1cfb9-7530-43c0-891e-590ceb48f5ee,towed.pink,available,14.99,,low,low,5,name.com,,,
 85c3cd8b-4a3c-4c51-b4e3-cdef47b25ec8,atthispoint.pink,available,14.99,,medium,low,13,name.com,,,
-cc92bcfa-c002-46e7-9b44-75f423a03086,acknowledged.pink,available,14.99,,medium,low,12,name.com,,,
+cc92bcfa-c002-46e7-9b44-75f423a03086,acknowledged.pink,available,14.99,,low,low,12,name.com,,,
 9b3ae76d-8644-4b55-a4e2-1f3dbb5759c2,boo.pink,available,14.99,,high,low,3,name.com,,,
-9468541a-8fc4-43e7-970d-355e6c40d307,blessed.pink,available,14.99,,medium,low,7,name.com,,,
+9468541a-8fc4-43e7-970d-355e6c40d307,blessed.pink,available,14.49,25.99,low,low,7,namesilo,,,22/09/2026 18:43
 91869e83-958f-4ad5-b8a0-f345b6e76325,completion.pink,available,14.99,,high,low,10,name.com,,,
 6b048b77-c3ad-4841-b82c-f283e1a74db9,finalyearproject.pink,available,14.99,,high,low,18,name.com,,,
 ecc18565-8818-4b19-91d7-952c5c8d7315,choc.pink,available,14.99,,high,low,4,name.com,,,
 31463ecd-8f49-4b42-a53a-f24053558634,saddle.pink,available,14.99,,high,low,6,name.com,,,
 835de3b8-8fe8-4268-b76b-c431afb49f8c,costofmoney.pink,available,14.99,,medium,low,13,name.com,,,
 677e7b84-2653-4559-a976-54989cbb3451,twatabout.pink,available,14.99,,low,low,10,name.com,,,
-266c8ae4-15ee-4320-b2c4-be530dcff4d8,wing.pink,available,14.99,,medium,low,4,name.com,,,
 6a2368ef-0ab1-44e5-961a-b0ab2428c586,sunglass.pink,available,14.99,,high,low,8,name.com,,,
 ef2e021d-8995-41b6-9bec-61c98e211972,besides.pink,available,14.99,,high,low,7,name.com,,,
 e079cb65-edf9-4d42-9f61-9d4da2785f15,suspense.pink,available,14.99,,high,low,8,name.com,,,
 165ea209-dd9e-4a10-b573-62c9c52ed64e,damascus.pink,available,14.99,,medium,low,8,name.com,,,
-9d6a428c-aaa0-469e-b752-3da4d416c146,option.pink,available,14.99,37.99,high,low,6,name.com,,,
-b3bc8282-e87f-425b-ab5d-45a224d5b748,attractive.pink,available,14.99,,high,low,10,name.com,,,
+9d6a428c-aaa0-469e-b752-3da4d416c146,option.pink,available,14.49,25.99,medium,low,6,namesilo,,,22/09/2026 02:42
+b3bc8282-e87f-425b-ab5d-45a224d5b748,attractive.pink,available,6.48,31.48,medium,low,10,namecheap,,,22/09/2026 11:44
 b07234d5-b348-450e-837b-10fa1ced80d2,gaslighting.pink,available,14.99,,medium,low,12,name.com,,,
 cf8d9321-3859-44b1-a7af-f9faf57a8490,incase.pink,available,14.99,,high,low,7,name.com,,,
 6d22aa7d-07b4-48d8-994c-9b9dc33f1b79,anodic.pink,available,6.48,31.48,low,low,6,namecheap,,,
@@ -43,7 +42,7 @@ a69c3d50-c5a8-4c37-aceb-8a94ae2f934c,decay.pink,available,14.99,,medium,low,5,na
 36481848-1ca4-4c0e-84a8-59b074c7ccd2,speculate.pink,available,14.99,,high,low,9,name.com,,,
 a95d8d8d-49c3-4aac-b2dd-41ee8cfe0f04,gym.pink,available,14.99,,high,low,3,name.com,,,
 c7c1afcc-5693-425b-8a64-a7fb71ca2e47,keep.pink,available,14.99,,high,low,4,name.com,,,
-63c8bda2-c563-45e3-89ef-1f5d4aa1d0c3,xxvi.pink,available,14.99,37.99,medium,low,4,name.com,,,
+63c8bda2-c563-45e3-89ef-1f5d4aa1d0c3,xxvi.pink,available,14.49,25.99,low,low,4,namesilo,,,21/09/2026 12:52
 1ed3de25-d569-4587-bf19-a42b63579686,virtual.pink,resell,,,medium,low,7,GoDaddy Online Services Cayman Islands Ltd.,18/11/2015 16:52,18/11/2026 16:52,19/09/2026 09:02
 fe2739ec-f5de-468a-afd0-c1eee2102f1f,autistic.pink,available,6.48,31.48,low,low,8,namecheap,,,07/08/2026 19:22
 5b737487-11e2-4870-9c06-bd767a0b666c,lookupon.pink,available,14.99,,high,low,9,name.com,,,
@@ -55,7 +54,6 @@ fe2739ec-f5de-468a-afd0-c1eee2102f1f,autistic.pink,available,6.48,31.48,low,low,
 de182dcc-cbe1-4312-9fa2-d5d24d61dd2d,covert.pink,available,14.99,37.99,medium,low,6,name.com,,,
 90f7374e-9f7f-419d-8d9e-2b464199a2d1,vitriolic.pink,available,6.48,31.48,low,low,9,namecheap,,,
 4f5b986a-bef8-4877-a7c8-1c5d6ffc277d,getright.pink,available,14.99,,high,low,9,name.com,,,
-3f86113f-b5d6-4636-83d9-766ebb0d8ad3,rise.pink,available,,,medium,high,4,,,,
 f3d83444-8b1f-4fd8-a3a4-edcb6e962a1e,assigned.pink,available,6.48,31.48,low,low,8,namecheap,,,07/08/2026 06:35
 77700fab-d481-4020-ba9a-64add87569b7,adrenergic.pink,available,6.48,31.48,low,low,10,namecheap,,,
 92975efb-a153-431c-92c6-a35101537dbb,patriotism.pink,available,14.99,,high,low,10,name.com,,,
@@ -79,7 +77,7 @@ c96524b3-069e-471a-8701-e64713429a56,stop.pink,premium,78.54,78.54,high,low,4,na
 ba7502c1-ffb1-45eb-915f-bbd0a7ca45b0,arboriform.pink,available,6.48,31.48,low,low,10,namecheap,,,06/08/2026 13:39
 1a5812e4-40db-41e8-962b-a4183cb51510,tasks.pink,available,14.99,,medium,low,5,name.com,,,
 5045ddeb-3cc7-45e0-ac09-596f6cb1de8d,bestwishes.pink,available,14.99,,high,low,11,name.com,,,
-37490249-ba4c-4b01-978c-51cba15c2de2,education.pink,premium,640,640,medium,low,9,namesilo,,,19/09/2026 06:14
+37490249-ba4c-4b01-978c-51cba15c2de2,education.pink,premium,640,640,medium,low,9,namesilo,,,23/09/2026 04:28
 639ae2e7-c913-4df8-adb7-3aab96a9bc74,mills.pink,available,14.99,,medium,low,5,name.com,,,
 618c4e0d-698c-44a5-aab9-9a164467aad5,stvincent.pink,available,14.99,,medium,low,11,name.com,,,
 9f93debd-a39c-4edd-a226-32d9c19e7a37,pestilent.pink,available,6.48,31.48,low,low,9,namecheap,,,08/08/2026 12:06
@@ -88,28 +86,28 @@ ac26ca6a-3d6c-44cd-a58a-396bba3ff28a,delta.pink,available,14.99,,high,medium,5,n
 6af3aee5-331a-4b5e-9df8-ab47f98ef8e7,newchicago.pink,available,14.99,,low,low,11,name.com,,,
 9aca11f0-1738-4242-9830-0966b9a4bf69,sounded.pink,available,14.99,,low,low,7,name.com,,,
 22107558-0115-4dd0-9b20-b307c16a548a,followedby.pink,available,14.99,,medium,low,11,name.com,,,
-af0979ea-961f-4184-9efa-8c0e79135fa3,adaptable.pink,available,14.99,37.99,high,low,9,name.com,,,
+af0979ea-961f-4184-9efa-8c0e79135fa3,adaptable.pink,available,14.49,25.99,medium,low,9,namesilo,,,21/09/2026 16:52
 177bf388-062a-4b06-8b9a-7900f94e1c1a,toll.pink,available,,,medium,low,4,,,,
 f1736acb-cf9f-429e-8d68-ad94f9aaa0fa,retracted.pink,available,14.99,,medium,low,9,name.com,,,
 471e3448-94b6-419d-8bfa-c8e6d4c9bd53,asiatic.pink,available,6.48,31.48,low,low,7,namecheap,,,07/08/2026 02:29
 eebb0584-9be1-4d67-8e2f-c94221f4e596,slighting.pink,available,6.48,31.48,low,low,9,namecheap,,,09/08/2026 13:15
-e7074f73-971b-4b57-8329-65693bc93c67,above.pink,available,14.99,37.99,high,low,5,name.com,,,
+e7074f73-971b-4b57-8329-65693bc93c67,above.pink,available,6.48,31.48,medium,low,5,namecheap,,,21/09/2026 14:29
 e0260b09-8817-4046-a3c2-0afa69b9dd25,aramaic.pink,available,6.48,31.48,low,low,7,namecheap,,,06/08/2026 12:13
 ed7d5ef9-2679-4c35-8f73-69c71fdd22aa,teddybear.pink,premium,82.5,,high,low,10,name.com,,,
-d715e440-bc3a-42fe-95ce-2f41056280a8,beast.pink,available,14.99,,medium,low,5,name.com,,,
+d715e440-bc3a-42fe-95ce-2f41056280a8,beast.pink,available,14.49,25.99,low,low,5,namesilo,,,22/09/2026 04:42
 3c851f7b-d2cc-4eee-8537-6a59d57ca96d,holes.pink,available,14.99,,medium,low,5,name.com,,,
 15fd2e4f-cb8c-433f-a5a5-6364e167f280,fiftyfour.pink,available,6.48,31.48,low,low,10,namecheap,,,
 235aa2fc-8007-461b-91c0-da91f972fab4,humongous.pink,available,6.48,31.48,low,low,9,namecheap,,,08/08/2026 12:58
 66cf205b-d38d-4d71-87f1-12e2d0473db4,affixal.pink,available,6.48,31.48,low,low,7,namecheap,,,
-94622e63-02aa-4ac5-9fec-8de82a14673c,bloody.pink,available,14.99,37.99,high,low,6,name.com,,,
+94622e63-02aa-4ac5-9fec-8de82a14673c,bloody.pink,available,14.49,25.99,low,low,6,namesilo,,,22/09/2026 00:33
 45b80738-fc12-4fc2-9531-95c55c2a86b4,standing.pink,available,14.99,,medium,low,8,name.com,,,
 a6964908-4269-4b6b-aef6-4d85384b9221,actually.pink,available,14.99,,high,low,8,name.com,,,
 fcf0af2e-f496-4d13-9b77-cde49b4977cf,masses.pink,available,14.99,,medium,low,6,name.com,,,
 b5c5b2e5-c8fc-429d-bcb6-c5e7132c4028,kookie.pink,available,6.48,31.48,low,low,6,namecheap,,,06/08/2026 21:09
 96147536-a8a4-407c-9951-03b937e37925,gutfeeling.pink,available,14.99,,high,low,11,name.com,,,
-bba2ad93-959e-4a2a-b018-92e0ec601202,acne.pink,available,14.99,,medium,low,4,name.com,,,
+bba2ad93-959e-4a2a-b018-92e0ec601202,acne.pink,available,14.99,,low,low,4,name.com,,,
 13eb8832-342f-44dd-8731-5c26a2735a7d,godsavetheking.pink,available,14.99,,high,low,17,name.com,,,
-7133d255-1057-427e-ad6f-59109888f749,devices.pink,available,14.49,25.99,medium,low,7,namesilo,,,19/09/2026 10:40
+7133d255-1057-427e-ad6f-59109888f749,devices.pink,available,14.49,25.99,medium,low,7,namesilo,,,23/09/2026 04:05
 b32f8269-9b5f-42a2-b347-6fc9be57ef27,mini.pink,available,,,high,low,4,,,,
 759b1889-3245-4935-845d-f4a04f05718b,candybar.pink,available,14.99,,high,low,9,name.com,,,
 5c331c96-ecc6-4f0a-9611-4aad7d567acc,virtually.pink,resell,,,medium,low,9,GoDaddy Online Services Cayman Islands Ltd.,09/09/2016 22:51,09/09/2026 22:51,
@@ -119,8 +117,8 @@ fafa2655-a016-421a-8204-8d0b41d68315,interview.pink,available,14.99,,high,low,9,
 969da657-cede-4c02-bb00-18d8a0ac9fda,surprise.pink,premium,625,,high,low,8,name.com,,,
 14f0fe8a-7447-4296-848b-9011b898df9e,missingperson.pink,available,14.99,,medium,low,14,name.com,,,
 69ffc4ac-ec2f-47f0-ad89-2c509d7744c4,sixtynine.pink,available,6.48,31.48,low,low,10,namecheap,,,
-2157812e-bc9b-470e-8424-4092fd3f73ad,outside.pink,available,14.99,37.99,medium,low,7,name.com,,,
-6c7f406f-2df3-4853-9770-808c0ed86508,outdoors.pink,available,14.99,37.99,high,low,8,name.com,,,
+2157812e-bc9b-470e-8424-4092fd3f73ad,outside.pink,available,6.48,31.48,medium,low,7,namecheap,,,21/09/2026 23:49
+6c7f406f-2df3-4853-9770-808c0ed86508,outdoors.pink,available,14.49,25.99,medium,low,8,namesilo,,,21/09/2026 23:54
 e11a3015-53d2-4fd3-99fd-53eea331bf4c,checkout.pink,available,14.99,,medium,low,9,name.com,,,
 a6299baf-ea02-4bda-9b8f-50c371e2d268,snicker.pink,available,14.99,,high,low,7,name.com,,,
 1727b13a-f5b9-49d9-ba9e-9ac2044c05fa,shakespeare.pink,available,14.99,,high,low,11,name.com,,,
@@ -128,7 +126,6 @@ a6299baf-ea02-4bda-9b8f-50c371e2d268,snicker.pink,available,14.99,,high,low,7,na
 f53cbeed-605b-40ba-bce6-b16aa43fb93a,nondrinker.pink,available,6.48,31.48,low,low,10,namecheap,,,
 d573ed0c-2f76-49dd-9c7b-6faa90e0f51c,everyyear.pink,available,14.99,,medium,low,10,name.com,,,
 050f8658-a27e-4860-ac7b-4e3d55e26e43,related.pink,available,6.48,31.48,low,low,7,namecheap,,,19/09/2026 12:07
-9d2bb9a0-058a-4829-a9d0-028cabaf65bb,game.pink,resell,,,high,medium,4,"Spaceship, Inc.",06/09/2016 10:10,06/09/2026 10:10,
 57dddf83-365a-4c41-a014-b8016425d74f,termination.pink,available,6.48,31.48,low,low,11,namecheap,,,04/09/2026 07:49
 6f3a9842-6879-4286-8781-9bd695faa88d,leaveout.pink,available,14.99,,medium,low,9,name.com,,,
 240094ef-d7f5-4d0d-b0c1-ec114d9158d0,boot.pink,available,14.99,,high,low,4,name.com,,,
@@ -138,8 +135,8 @@ b18b03ca-27a7-43b2-a608-3eaf22bb01b1,lithuania.pink,available,,,medium,low,9,,,,
 03ac8a00-14a4-4db5-8e18-cc34597f053d,reporting.pink,available,14.99,,medium,low,9,name.com,,,
 6c85e773-bc0e-4ae1-83ef-8abb9f8e8208,feels.pink,available,14.99,,high,low,5,name.com,,,
 e5ee8c3f-0059-4b86-87f1-b687f7aac2d9,pad.pink,available,14.99,,medium,low,3,name.com,,,
-266583d2-661c-4faa-b642-735748cf5e04,blinking.pink,available,14.99,,high,low,8,name.com,,,
-395ea739-49aa-4cee-a922-b9c5a19227ee,twelve.pink,available,14.99,37.99,high,low,6,name.com,,,
+266583d2-661c-4faa-b642-735748cf5e04,blinking.pink,available,14.49,25.99,medium,low,8,namesilo,,,22/09/2026 21:58
+395ea739-49aa-4cee-a922-b9c5a19227ee,twelve.pink,available,14.49,25.99,medium,low,6,namesilo,,,21/09/2026 11:23
 600deea7-b02b-4bd7-b147-6b8bea0f9adb,own.pink,available,,,high,low,3,,,,
 56337820-9702-4752-ae61-4ddb0d32e675,bewildered.pink,available,6.48,31.48,low,low,10,namecheap,,,07/08/2026 11:52
 b891e04d-9a0f-43b9-b894-dd9974977b4f,super.pink,resell,,,medium,medium,5,"DNSPod, Inc.",03/04/2025 15:15,03/04/2027 15:15,
@@ -174,7 +171,7 @@ c26686e2-3c02-41ef-a695-8f5b383404c5,giant.pink,available,14.99,37.99,high,low,5
 8a923678-b8dd-4ae1-af5e-2cb05a1cee8f,transient.pink,available,14.99,,high,low,9,name.com,,,
 97970db8-10c1-4e07-974f-04310f4aafa5,card.pink,premium,625,,medium,medium,4,name.com,,,
 74aa93d7-1432-4d38-83df-9c988bb06c9e,elsewhere.pink,available,14.99,,high,low,9,name.com,,,
-673fa6c0-a168-4abc-991c-140ab28923a0,wiz.pink,available,14.99,37.99,high,low,3,name.com,,,
+673fa6c0-a168-4abc-991c-140ab28923a0,wiz.pink,available,6.48,31.48,medium,low,3,namecheap,,,21/09/2026 18:16
 a8547621-1e95-45ae-9061-740b7e9e4eb6,solid.pink,available,14.99,,high,low,5,name.com,,,
 9f65043d-bfbc-4cdd-90db-7b91ffb91c0f,showering.pink,available,14.99,,high,low,9,name.com,,,
 bb11568f-a1d5-4dbb-9045-f019105a5f4a,unconvincing.pink,available,14.99,,medium,low,12,name.com,,,
@@ -184,12 +181,11 @@ dbe26726-0aec-4f82-b006-52f689919e6e,invalid.pink,available,,,high,low,7,,,,
 792d2281-1afa-4c18-a52d-ab99b182818d,furthest.pink,available,14.99,,medium,low,8,name.com,,,
 db7a585a-1793-48dd-9294-3a5b37260bfc,aware.pink,premium,625,,high,low,5,name.com,,,
 e0107e9f-53ad-41a3-a00c-15aaaf95ac6b,categorical.pink,available,14.99,,high,low,11,name.com,,,
-d0c3d433-7f5d-4f42-80eb-23fe55c2b1bc,false.pink,available,14.99,,medium,low,5,name.com,,,
+d0c3d433-7f5d-4f42-80eb-23fe55c2b1bc,false.pink,available,14.49,25.99,low,low,5,namesilo,,,22/09/2026 10:15
 33266dcc-95be-485f-9043-c13fb7e02466,gotoilet.pink,available,14.99,,medium,low,9,name.com,,,
 96e30012-4fa2-433f-8658-6300c2dc34d3,recoveredmemory.pink,available,14.99,,high,low,16,name.com,,,
 3579d396-82b8-4beb-80b4-0cbb50c74312,shoppingcentre.pink,available,14.99,,high,low,15,name.com,,,
 a394fed2-3872-4916-a662-e96ab87a0d00,argentic.pink,available,6.48,31.48,low,low,8,namecheap,,,06/08/2026 18:06
-63826c86-cfd9-4f61-88f5-3ce383ab7109,smash.pink,available,14.99,,high,low,5,name.com,,,
 c037a6c5-8f98-4f79-adb9-1845f75ef6b6,exciting.pink,available,14.99,,high,low,8,name.com,,,
 97dc6bb9-cc09-4301-afa3-dccfa9173e64,pricked.pink,available,14.99,,low,low,7,name.com,,,
 119a6f80-c7de-4e47-b96a-abc5863c7d09,humans.pink,available,14.99,,high,medium,6,name.com,,,
@@ -215,7 +211,7 @@ ea0c8215-3748-4c04-9a8a-fae11c5c38f9,lasting.pink,available,14.99,37.99,high,low
 9f1a0ae7-d67b-4b2c-a8f1-580419e1ad5b,import.pink,available,14.99,,high,low,6,name.com,,,
 b7e7bd35-85df-4800-a09c-4a77da34bc89,devote.pink,available,14.99,,high,low,6,name.com,,,
 e06e82ea-dbf3-4a3a-91ab-a87141f61758,vacuumcleaner.pink,available,14.99,,high,low,14,name.com,,,
-99e437ed-ba6a-45d5-9c6f-3b6f11d992fa,sharp.pink,available,14.99,37.99,high,low,5,name.com,,,
+99e437ed-ba6a-45d5-9c6f-3b6f11d992fa,sharp.pink,available,14.49,25.99,medium,low,5,namesilo,,,21/09/2026 16:42
 898e3f10-b062-4659-aff9-fbbada410655,hedge.pink,available,14.99,,medium,low,5,name.com,,,
 9ebe65be-8b99-4698-8964-9f94c0c934ab,characteristic.pink,available,14.99,,high,low,14,name.com,,,
 de039b46-f701-4354-aa90-5d6dc640f54e,poisoning.pink,available,14.99,,medium,low,9,name.com,,,
@@ -272,13 +268,13 @@ cdf840ee-4c4b-4719-b56e-120d19779e84,quarters.pink,available,14.99,,medium,low,8
 7bfb6334-8ca0-4bc0-a60f-e6b7617c52f1,christmascarol.pink,available,14.99,,high,low,15,name.com,,,
 0f5d3d84-a350-4757-893e-415197c36f10,separation.pink,available,14.99,,medium,low,10,name.com,,,
 7684d9d0-fe0c-4b73-b19c-832f484da2e7,fortyone.pink,available,6.48,31.48,low,low,9,namecheap,,,
-594a64fa-15d8-44c7-ad4b-0ab8c1fa0d5b,athletic.pink,available,14.99,37.99,high,low,8,name.com,,,
+594a64fa-15d8-44c7-ad4b-0ab8c1fa0d5b,athletic.pink,available,14.49,25.99,medium,low,8,namesilo,,,21/09/2026 16:12
 7c83728d-1297-42b3-b342-aed23d212413,anaemia.pink,available,14.99,,medium,low,7,name.com,,,
 43ab11ae-7a53-4b7b-88db-6853480872ce,atypical.pink,available,6.48,31.48,medium,low,8,namecheap,,,07/08/2026 16:06
 616432dd-b636-4cca-b925-787fc2358179,painkiller.pink,available,6.48,31.48,low,low,10,namecheap,,,
-bd94aa05-416f-4fc7-8e08-fe5124437c3b,adroit.pink,available,14.99,37.99,high,low,6,name.com,,,
+bd94aa05-416f-4fc7-8e08-fe5124437c3b,adroit.pink,available,6.48,31.48,low,low,6,namecheap,,,21/09/2026 19:49
 24e5eebd-96de-490d-8c6a-93b6a14802ad,closetogether.pink,available,14.99,,medium,low,14,name.com,,,
-27ed37d9-14cd-4c6c-b7c8-5aa5ed2daaa2,xviii.pink,available,14.99,37.99,medium,low,5,name.com,,,
+27ed37d9-14cd-4c6c-b7c8-5aa5ed2daaa2,xviii.pink,available,6.48,31.48,low,low,5,namecheap,,,21/09/2026 12:00
 0ef324ce-7367-4ad4-8ce7-0b29260baee5,ammonitic.pink,available,6.48,31.48,low,low,9,namecheap,,,
 6932c5d1-9d5e-49a2-9729-ada45ccad668,autumn.pink,premium,78.54,78.54,medium,low,6,namesilo,,,
 2b045f6c-97b0-4785-b778-2584e04c9079,attorney.pink,available,14.99,,high,low,8,name.com,,,
@@ -303,15 +299,15 @@ d23cb6ab-dbab-4f00-b39c-a3791d6d0631,bahamian.pink,available,6.48,31.48,low,low,
 51ab7151-b452-4214-bdb9-a200cb416229,agraphic.pink,available,6.48,31.48,low,low,8,namecheap,,,
 fcc1ea0e-2bb0-4090-9fcc-b2b020fadcbf,portable.pink,available,14.99,,high,low,8,name.com,,,
 33625bf3-e7c7-4191-8cf6-55085f12e34d,striking.pink,available,14.99,,high,low,8,name.com,,,
-4f0095ae-ced2-4a2d-aef0-5e5b4d7e06e8,breezy.pink,available,14.99,,high,low,6,name.com,,,
+4f0095ae-ced2-4a2d-aef0-5e5b4d7e06e8,breezy.pink,available,14.49,25.99,medium,low,6,namesilo,,,22/09/2026 22:40
 08be64d3-a53e-444a-944e-96744662e499,barely.pink,available,14.99,,medium,low,6,name.com,,,
-a3d9d733-c600-42fa-a387-0218589d990b,single.pink,available,14.99,37.99,high,low,6,name.com,,,
+a3d9d733-c600-42fa-a387-0218589d990b,single.pink,available,14.49,25.99,medium,low,6,namesilo,,,21/09/2026 10:43
 6123cda2-d437-4511-b91e-55fc5b15b86c,makethemostof.pink,available,14.99,,high,low,16,name.com,,,
 86ddbadf-9e2d-4e37-8238-99acb37a983d,ike.pink,available,14.99,,high,low,3,name.com,,,
 2571d7d6-b6ba-4cc3-a89e-09fe577646d5,apoplectic.pink,available,6.48,31.48,low,low,10,namecheap,,,06/08/2026 03:29
 7b121b67-ff2e-4b85-8c82-d24a69c6a564,undisciplined.pink,available,14.99,,medium,low,13,name.com,,,
 13bad8ad-91ea-4a47-81f3-57508590babf,spiderweb.pink,available,14.99,,high,low,10,name.com,,,
-5d225f62-1424-4ff5-8c6a-783b472275b4,august.pink,available,14.99,,high,low,6,name.com,,,
+5d225f62-1424-4ff5-8c6a-783b472275b4,august.pink,available,6.48,31.48,low,low,6,namecheap,,,22/09/2026 12:44
 8dfd3138-e2d5-4d9e-a7eb-9c678fab98b1,linear.pink,available,6.48,31.48,low,low,6,namecheap,,,
 99bb7085-84a1-4610-a05a-1fcdfb0f942b,aminic.pink,available,6.48,31.48,low,low,6,namecheap,,,
 ed85c8b7-83b8-46e6-ba57-46b896eedc22,greetings.pink,available,14.99,,high,low,9,name.com,,,
@@ -326,7 +322,7 @@ af394276-86a7-45d8-bd61-172ea20db9b9,disagree.pink,available,14.99,,medium,low,8
 8f137875-f099-47b0-8010-dbd3b1ee81ed,worsening.pink,available,14.99,,medium,low,9,name.com,,,
 8d356d6f-6c60-4980-890e-c186c98d86e4,shining.pink,available,14.99,,high,low,7,name.com,,,
 395f2af1-02ec-413f-8b51-37138a7e6d7f,jehovah.pink,available,6.48,31.48,low,low,7,namecheap,,,
-c5f6f9c2-a1e0-4788-8c4b-c7c753a628c3,healthcare.pink,premium,780,780,high,low,10,namecheap,,,
+c5f6f9c2-a1e0-4788-8c4b-c7c753a628c3,healthcare.pink,premium,768,768,medium,low,10,namesilo,,,23/09/2026 04:51
 da06a6f8-a282-45b9-be10-6785d69b5f3c,departure.pink,available,6.48,31.48,medium,low,9,namecheap,,,08/09/2026 12:08
 8dd4e71a-19c5-47f2-8fe2-81fa9373f751,seals.pink,available,14.99,,medium,low,5,name.com,,,
 501f6318-85b9-4c90-83e5-1a8b8cc0ca1c,journeyman.pink,available,14.99,,medium,low,10,name.com,,,
@@ -352,7 +348,7 @@ fbb6fa9c-7f39-49b9-b39b-32f7d4e130ce,ancillary.pink,available,6.48,31.48,low,low
 42ee2309-b02a-42b8-842e-f2a03bcb80ea,gogreen.pink,available,14.99,,medium,low,8,name.com,,,
 ca3a5709-fb60-4e40-be62-e98214082497,prompting.pink,available,14.99,,medium,low,9,name.com,,,
 e9691c39-954c-4bff-9b37-164a1fde6a3a,numlock.pink,available,14.99,,medium,low,8,name.com,,,
-3e6e929b-e17e-4496-b90a-db77757cfffc,alike.pink,available,14.99,37.99,high,low,5,name.com,,,
+3e6e929b-e17e-4496-b90a-db77757cfffc,alike.pink,available,14.49,25.99,low,low,5,namesilo,,,21/09/2026 23:59
 6a9eea08-e558-4c84-a983-94272c7f6dec,istandcorrected.pink,available,14.99,,medium,low,17,name.com,,,
 b94b6e6c-b16b-4303-9edd-c9011426bf76,accusatory.pink,available,6.48,31.48,low,low,10,namecheap,,,
 4a2711f4-1287-4a4b-8766-7c00de701552,greatgranddaughter.pink,available,14.99,,high,low,19,name.com,,,
@@ -390,7 +386,7 @@ b767a6f4-4010-49a4-a3c6-d90d3ead08f4,expedite.pink,available,14.99,,high,low,8,n
 5b1bcec7-c5fd-408a-8900-600b91a740bc,nitid.pink,available,6.48,31.48,low,low,5,namecheap,,,
 f939e803-80d8-4b81-b77d-e75a0d4a7600,attorneygeneral.pink,available,14.99,,medium,low,16,name.com,,,
 020c296c-4132-452e-b116-7aab46ddd7d2,peeled.pink,available,6.48,31.48,low,low,6,namecheap,,,08/08/2026 18:24
-2c211372-7f12-4733-9805-8c31642d84fd,staff.pink,available,14.99,,high,low,5,name.com,,,
+2c211372-7f12-4733-9805-8c31642d84fd,staff.pink,available,6.48,31.48,low,low,5,namecheap,,,23/09/2026 05:41
 b5def9d7-6ca9-4b41-a55a-18ef82ca4b44,describe.pink,available,14.99,,high,low,8,name.com,,,
 d2cff308-7ab4-4005-839a-64bfcad9154c,correct.pink,available,14.99,37.99,high,low,7,name.com,,,
 e002a656-e31f-4e5d-8662-560c04eab102,bayesian.pink,available,6.48,31.48,low,low,8,namecheap,,,09/08/2026 03:13
@@ -422,7 +418,7 @@ ef99f5e2-029f-40db-85e8-77e8025423fb,knowledgeable.pink,available,14.99,,high,lo
 e91442b4-4717-4191-be78-1612b23da94b,sheorhe.pink,available,14.99,,low,low,9,name.com,,,
 9f4055cb-2ac9-40e8-8707-308cbc2e23b1,anechoic.pink,available,6.48,31.48,low,low,8,namecheap,,,
 5cd2a427-1832-4437-a650-66c8235a0d49,phone.pink,premium,3750,,high,low,5,name.com,,,
-3ae03429-3ea3-43f5-ab9e-9846e6845a28,blow.pink,available,14.99,,medium,low,4,name.com,,,
+3ae03429-3ea3-43f5-ab9e-9846e6845a28,blow.pink,available,6.48,31.48,low,low,4,namecheap,,,23/09/2026 01:59
 0a426d86-6f63-4d2f-ad2d-fad827beeec8,leather.pink,premium,625,,medium,low,7,name.com,,,
 37b0a6f9-eebd-4d7a-8be5-ec42cd6c205b,bantam.pink,available,6.48,31.48,low,low,6,namecheap,,,08/08/2026 14:01
 e5871707-67ed-4c29-9b93-070a5e29e7ad,alveolate.pink,available,6.48,31.48,low,low,9,namecheap,,,
@@ -431,7 +427,7 @@ e5871707-67ed-4c29-9b93-070a5e29e7ad,alveolate.pink,available,6.48,31.48,low,low
 1646e826-c24c-44fd-9c25-230e01050478,virulent.pink,available,6.48,31.48,low,low,8,namecheap,,,
 d70a409c-b954-4f88-82e1-ccfd358ca6c3,sunlight.pink,available,14.99,,high,low,8,name.com,,,
 3d344bc0-1460-4559-8b1e-19bee36a708d,aerophilic.pink,available,6.48,31.48,low,low,10,namecheap,,,
-e5068f51-5dda-4d52-abd9-cbaf4cecfaeb,alive.pink,available,14.99,,high,low,5,name.com,,,
+e5068f51-5dda-4d52-abd9-cbaf4cecfaeb,alive.pink,available,14.49,25.99,medium,low,5,namesilo,,,22/09/2026 05:04
 24976da2-35c8-4e7f-88d9-393a2435afcf,astound.pink,available,14.99,,high,low,7,name.com,,,
 11b94c72-7957-40aa-bcf2-d70a19340e29,patriotic.pink,available,14.99,,high,low,9,name.com,,,
 deb9c719-4947-4ca7-b2fb-5a1912c183d8,sag.pink,available,14.99,,medium,low,3,name.com,,,
@@ -440,9 +436,9 @@ b3256a4c-0fc3-4567-b8c4-5e8afdf9b20d,xxxiii.pink,available,6.48,31.48,low,low,6,
 3bc23f97-1e0f-429f-925f-ef6f7101e4b9,viewer.pink,available,14.99,,medium,low,6,name.com,,,
 c18c69c7-5e2c-413c-898c-7d0037d27019,middleage.pink,available,14.99,,medium,low,10,name.com,,,
 d445490f-cf47-46d1-bf80-fe84d47db266,feminine.pink,premium,625,,high,low,8,name.com,,,
-c174d552-b7da-42ba-948b-9f8146ac4ac4,bearing.pink,available,14.99,,high,low,7,name.com,,,
+c174d552-b7da-42ba-948b-9f8146ac4ac4,bearing.pink,available,6.48,31.48,low,low,7,namecheap,,,22/09/2026 18:34
 dd8d58b4-43b1-4bf0-9dc0-3940fd491db0,bestfriend.pink,available,14.99,,high,low,11,name.com,,,
-a4357933-7c37-49b4-b4fc-a36818410c05,annoyed.pink,available,14.99,,medium,low,7,name.com,,,
+a4357933-7c37-49b4-b4fc-a36818410c05,annoyed.pink,available,6.48,31.48,low,low,7,namecheap,,,22/09/2026 05:18
 cd7da653-d2ab-4c8e-af6b-a3d9ae0b2d75,oddmanwins.pink,available,14.99,,low,low,12,name.com,,,
 c0afbded-3343-4f44-9087-be9241f09b69,execrable.pink,available,6.48,31.48,low,low,9,namecheap,,,
 afe88cd2-b8d2-467a-9361-e57100a8400b,spirits.pink,premium,82.5,,high,low,7,name.com,,,
@@ -472,7 +468,7 @@ f322f865-47c1-4557-a9cf-4b982b06d940,pinch.pink,available,14.99,,high,low,5,name
 97e770f5-6f13-49c6-8353-da141ebbfe9c,aortal.pink,available,6.48,31.48,low,low,6,namecheap,,,05/08/2026 21:49
 94e9d016-fc1f-47a8-bdc1-b07e434e9e1b,inplace.pink,available,14.99,,medium,low,8,name.com,,,
 bf672b59-cab4-4cab-800f-0b26a30851f0,fibre.pink,available,14.99,,high,low,5,name.com,,,
-f36098da-affa-4d59-ac42-6031cb5dd40b,angelical.pink,available,14.99,,medium,low,9,name.com,,,
+f36098da-affa-4d59-ac42-6031cb5dd40b,angelical.pink,available,6.48,31.48,low,low,9,namecheap,,,22/09/2026 04:27
 8cc121c8-cfb6-48a8-aed4-12ebf878e6a8,educational.pink,available,14.99,,high,low,11,name.com,,,
 1be2dd79-a125-45d8-a0ac-660326db0cdc,baritone.pink,available,6.48,31.48,low,low,8,namecheap,,,08/08/2026 19:36
 23f224ab-f783-45ed-839c-d9d0131a4040,complicated.pink,available,14.99,,medium,low,11,name.com,,,
@@ -482,7 +478,7 @@ e3c92d11-cae3-4466-9ff0-9e24e06760ad,findout.pink,available,14.99,,high,low,8,na
 df48f27e-383b-4e40-835c-e15be6be72ee,imaginable.pink,available,14.99,37.99,medium,low,10,name.com,,,
 2084455e-dcc1-4744-ab65-2fffe0f51baa,series.pink,available,6.48,31.48,medium,low,6,namecheap,,,19/09/2026 17:55
 880e6f02-80d4-418e-b922-f8b87446e628,abashed.pink,available,6.48,31.48,low,low,7,namecheap,,,
-ab1ca77c-88a2-476e-9fac-91c7687621b0,twentyone.pink,available,14.99,37.99,high,low,10,name.com,,,
+ab1ca77c-88a2-476e-9fac-91c7687621b0,twentyone.pink,available,14.49,25.99,medium,low,10,namesilo,,,21/09/2026 12:30
 931f144a-f3bd-4a00-8aa1-ad7454423f26,monstrous.pink,available,6.48,31.48,low,low,9,namecheap,,,07/08/2026 14:47
 92821e8e-f03e-46f9-94c8-3d2858c4cec0,haveworkdone.pink,available,14.99,,medium,low,14,name.com,,,
 0b41f35a-5d5a-4593-adf7-0e7c7d5b6183,chimney.pink,available,14.99,,high,low,7,name.com,,,
@@ -536,7 +532,6 @@ caa83de6-fdf2-42a9-a447-88cd75a70540,maledict.pink,available,6.48,31.48,low,low,
 b575a306-ff96-41db-b728-39b9a68babb3,vaccination.pink,available,14.99,,medium,low,11,name.com,,,
 a49cf4e8-efd3-4ca3-8a85-f0e6e76e052a,bahai.pink,available,6.48,31.48,low,low,5,namecheap,,,08/08/2026 08:27
 1bb7e18c-1851-45fc-9e54-b7d7b5b8bbda,taxes.pink,available,14.99,,low,low,5,name.com,,,
-5ce2cc7b-2f88-493a-ba82-02bb0c5de296,small.pink,available,14.99,,high,low,5,name.com,,,
 08d8332e-314b-4034-92bd-fe4f8932d11e,driver.pink,available,14.99,,high,low,6,name.com,,,
 21735373-4750-4409-9b7e-a58466caea21,basiscopic.pink,available,6.48,31.48,low,low,10,namecheap,,,08/08/2026 22:48
 1dd654cf-8cc2-4114-90bc-961715d1a311,pervert.pink,available,14.99,37.99,high,low,7,name.com,,,
@@ -603,7 +598,7 @@ e1cc26e7-9c12-4418-af1b-ac8fef538d73,died.pink,available,14.99,,medium,low,4,nam
 e6ab1a74-a0cb-4d50-bc8f-d6560d9e575f,boozer.pink,available,6.48,31.48,low,low,6,namecheap,,,
 53da2a74-d6d6-4595-96bc-e200e04d61ee,sainted.pink,available,6.48,31.48,low,low,7,namecheap,,,
 a0ad2a40-d333-48fe-a01d-77947fadc614,muhfucka.pink,available,14.99,,medium,low,8,name.com,,,
-b5aac8ca-3a5d-4e8e-9fc8-56def4abd24d,annoying.pink,available,14.99,,high,low,8,name.com,,,
+b5aac8ca-3a5d-4e8e-9fc8-56def4abd24d,annoying.pink,available,14.49,25.99,low,low,8,namesilo,,,22/09/2026 05:19
 3ea41ac3-c4e2-488b-ad27-94e36e9b4c74,nephew.pink,available,14.99,,medium,low,6,name.com,,,
 2faa8887-5832-4aaa-9bb7-e1f1ab054090,shoulders.pink,available,14.99,,low,low,9,name.com,,,
 058598da-9a49-4a2e-b018-4d81d2bebcff,outdoor.pink,available,14.99,,high,low,7,name.com,,,
@@ -617,7 +612,7 @@ b2d32322-d349-4c78-ad90-b56eccf209fb,goup.pink,available,6.48,31.48,medium,low,5
 3c12faac-1456-413d-8255-64b69a98d9b1,cord.pink,available,14.99,,high,low,4,name.com,,,
 525d449b-aba2-46e1-90df-17215038cf46,athenian.pink,available,6.48,31.48,low,low,8,namecheap,,,07/08/2026 13:08
 ed229826-b611-44b3-b065-eede52058af8,military.pink,available,14.99,,high,low,8,name.com,,,
-ba5f0b80-f040-4c86-9b43-b45816ac721a,alright.pink,available,14.99,37.99,high,low,7,name.com,,,
+ba5f0b80-f040-4c86-9b43-b45816ac721a,alright.pink,available,14.49,25.99,medium,low,7,namesilo,,,22/09/2026 01:15
 445c9a04-7889-4752-a903-82a2a05597db,fell.pink,available,6.48,31.48,low,low,4,namecheap,,,08/08/2026 15:49
 a2595b34-fed6-453a-9100-ba1020a2e4f7,converse.pink,available,,,medium,high,8,,,,
 81736a7f-e7ed-437a-a032-a6cccc65fffd,evolve.pink,available,,,high,medium,6,,,,
@@ -647,13 +642,13 @@ aa08b695-a56d-4eae-8da9-1af54d7818cb,interim.pink,available,14.99,,high,low,7,na
 b8b59a89-90bf-449e-b808-b867ab618c94,scatty.pink,available,6.48,31.48,low,low,6,namecheap,,,
 7a7ee5b0-9920-4456-8911-f00bf9047c1a,however.pink,available,14.99,,high,low,7,name.com,,,
 20d29056-be9e-4e96-8649-c042a3acd226,pillowcase.pink,available,14.99,,low,low,11,name.com,,,
-46452674-5c92-4d50-b3e1-f025c710967b,augmented.pink,available,14.99,,medium,low,9,name.com,,,
+46452674-5c92-4d50-b3e1-f025c710967b,augmented.pink,available,14.49,25.99,low,low,9,namesilo,,,22/09/2026 12:42
 4db829e5-7699-4006-ae65-0529aaa3846f,bruise.pink,available,14.99,,high,low,6,name.com,,,
 2cafa0ed-2be1-4fec-b1fa-adb9972f0fcb,buzzed.pink,available,14.99,,high,low,6,name.com,,,
 9ef1caef-7dc1-4705-8a9b-7cc05631e998,ana.pink,premium,78.54,78.54,high,low,3,namesilo,,,
 8a0a68df-39da-4061-93b3-141b5cb9f545,nobody.pink,available,14.99,,medium,low,6,name.com,,,
 26ef7eff-79db-4ec2-a48b-93f05d08f645,could.pink,available,14.99,,high,low,5,name.com,,,
-b4145026-24c9-4b46-abf6-c6038af5a69b,affable.pink,available,14.99,37.99,high,low,7,name.com,,,
+b4145026-24c9-4b46-abf6-c6038af5a69b,affable.pink,available,6.48,31.48,medium,low,7,namecheap,,,21/09/2026 21:27
 0176169a-4dc2-412d-8b0e-c6f966ed775a,disciple.pink,available,6.48,31.48,medium,low,8,namecheap,,,
 93740d5c-d9c1-4669-8792-67ac7e0fdefe,steamengine.pink,available,14.99,,high,low,12,name.com,,,
 b90d224e-1e23-4d72-8585-2ec7b261c746,theyre.pink,available,14.99,,medium,low,6,name.com,,,
@@ -688,7 +683,7 @@ bc0c9861-8334-46f3-aaec-bf123c1f13f7,composed.pink,available,14.99,37.99,high,lo
 b53d1007-4345-4fc8-aaa6-3e41708bd36a,coruscant.pink,available,6.48,31.48,low,low,9,namecheap,,,
 4ba5b625-ee22-499e-b117-b4b0ca998ebb,endorsee.pink,available,14.99,,high,low,8,name.com,,,
 441d0c2c-7bd7-4fb1-af9d-2584e7f0975c,misbegot.pink,available,6.48,31.48,low,low,8,namecheap,,,08/08/2026 23:59
-4e24909a-af10-4382-964d-fb99a38699d4,dressed.pink,available,14.99,,high,low,7,name.com,,,
+4e24909a-af10-4382-964d-fb99a38699d4,dressed.pink,available,14.99,37.99,medium,low,7,name.com,,,22/09/2026 07:16
 f60096bb-b117-49c9-bc24-e2bd465bf86a,bearded.pink,available,6.48,31.48,low,low,7,namecheap,,,08/08/2026 16:05
 d750eb83-1b8f-4407-a8b3-8e49e4d8d3da,highquality.pink,available,14.99,,medium,low,12,name.com,,,
 af1dbe51-f15e-46ae-a243-e5581ff19d8f,apposite.pink,available,6.48,31.48,low,low,8,namecheap,,,06/08/2026 07:53
@@ -723,9 +718,8 @@ dfb47f8c-ac8d-4fb2-b1d9-4b02d3fa1288,newglasgow.pink,available,14.99,,low,low,11
 c254333b-0d49-413b-ace1-30581456cc83,fame.pink,available,14.99,,high,low,4,name.com,,,
 dca7d056-a692-43e2-b727-4f7b36c64aea,spirited.pink,available,14.99,,high,low,8,name.com,,,
 73ad9cd6-bb1c-41a1-a3ec-c950c71196c0,cathartic.pink,available,6.48,31.48,low,low,9,namecheap,,,05/08/2026 22:20
-9a5417bf-af99-4c66-b524-53fe91d9879c,blocked.pink,available,14.99,,medium,low,7,name.com,,,
+9a5417bf-af99-4c66-b524-53fe91d9879c,blocked.pink,available,14.49,25.99,low,low,7,namesilo,,,22/09/2026 22:08
 1df76792-6de1-45d1-af34-867de95d78f2,achy.pink,available,6.48,31.48,low,low,4,namecheap,,,
-f71e3fc8-0d0e-463f-a24d-59969d67692e,lively.pink,available,,,high,high,6,,,,
 f635c5a9-f882-43f4-ae5b-39f20d0c24a0,alleyway.pink,available,14.49,25.99,low,low,8,namesilo,,,19/09/2026 04:05
 6eebb625-04a7-49bf-8f04-8fed847d5ce9,childendangerment.pink,available,14.99,,medium,low,18,name.com,,,
 8ee08c20-6d49-4572-9666-fe3a4d7bedb1,forty.pink,available,6.48,31.48,low,low,5,namecheap,,,
@@ -742,7 +736,7 @@ b32f4702-baf8-4db3-98e7-475ed20ea312,marks.pink,available,14.99,,medium,low,5,na
 06391274-3edd-4fdd-a95a-67a1b6e15a97,harrowing.pink,available,6.48,31.48,low,low,9,namecheap,,,
 b9dc364a-0195-4179-a159-7c091fbe6b7c,simplicity.pink,available,14.99,,high,low,10,name.com,,,
 6e3ab982-a499-4fe8-8ef9-0efc32fb86e6,sales.pink,available,14.99,,high,medium,5,name.com,,,
-c0b5491c-0bcb-4a50-8ac0-e98f3f08cb8b,doable.pink,available,14.99,37.99,high,low,6,name.com,,,
+c0b5491c-0bcb-4a50-8ac0-e98f3f08cb8b,doable.pink,available,14.49,25.99,medium,low,6,namesilo,,,21/09/2026 15:46
 53e3202e-845a-48e3-8249-6220ed34162e,rheumatic.pink,available,6.48,31.48,low,low,9,namecheap,,,06/08/2026 23:05
 16f0b7e1-d378-4699-8cfb-90b81504269c,stranger.pink,available,14.99,,high,low,8,name.com,,,
 3b0ce037-c2ac-483b-a754-e4eebe317c39,running.pink,available,14.99,,medium,low,7,name.com,,,
@@ -754,7 +748,7 @@ f1f10990-93c5-4ae4-903d-3251487f560f,closeoff.pink,available,14.99,,high,low,9,n
 7aa99ba3-7c19-4d3b-a0b9-43da45d967ce,beborn.pink,available,14.99,,medium,low,7,name.com,,,
 bfdfd1d2-68de-4945-8580-44b183453d4c,ruled.pink,available,14.99,,high,low,5,name.com,,,
 28ff1ad6-9b8b-4171-a953-f86f22ed7a5c,allnight.pink,available,6.48,31.48,low,low,9,namecheap,,,
-31c4c97c-36ab-41e5-8866-1948d0633244,playing.pink,available,14.99,37.99,high,low,7,name.com,,,
+31c4c97c-36ab-41e5-8866-1948d0633244,playing.pink,available,14.49,25.99,medium,low,7,namesilo,,,21/09/2026 16:27
 468feb04-d940-4799-8ef1-66c81e6d057c,extendto.pink,available,14.99,,high,low,9,name.com,,,
 efc5ed59-4704-4938-aa4f-5d248b574f5b,dying.pink,available,14.99,37.99,high,low,5,name.com,,,
 1f533daa-61ef-4b66-b525-c8685795c6a6,recovering.pink,available,14.99,37.99,high,low,10,name.com,,,
@@ -813,7 +807,7 @@ e3553304-39ef-4c7a-ba95-f67e3aed21df,biology.pink,available,14.99,,high,low,7,na
 9a0c367e-4022-41f8-8d82-f947ef29f7fc,apterous.pink,available,6.48,31.48,low,low,8,namecheap,,,06/08/2026 10:29
 8f902e34-dc64-4676-91c0-1650f1ea3e82,asexual.pink,available,6.48,31.48,low,low,7,namecheap,,,07/08/2026 01:33
 202f01eb-5eb2-49af-860d-6140449e982c,intense.pink,available,14.99,,high,low,7,name.com,,,
-7cdb8897-b494-4329-b2c8-5c97d5e6522e,billion.pink,available,14.99,,high,low,7,name.com,,,
+7cdb8897-b494-4329-b2c8-5c97d5e6522e,billion.pink,available,14.49,25.99,medium,low,7,namesilo,,,22/09/2026 20:43
 b31db0ad-0432-43de-adae-fcd0f6e573c5,sise.pink,available,6.48,31.48,low,low,4,namecheap,,,
 91e76996-79e3-4ae1-b7e4-32ac680bd3f6,mode.pink,available,14.99,,high,low,4,name.com,,,
 94b64219-be3f-4e53-a180-7bf04a5fbf2b,harmony.pink,premium,78.54,78.54,high,low,7,namesilo,,,
@@ -831,7 +825,7 @@ d15edc1b-a2b4-4bd0-acb4-e372d7e963ae,butthenagain.pink,available,14.99,,medium,l
 4c0232d8-1821-4a48-8962-aa5fefbc6f44,moved.pink,available,14.99,,high,low,5,name.com,,,
 20ab2a2b-7c84-4747-a8a4-4409867cbf4f,countycourt.pink,available,14.99,,medium,low,12,name.com,,,
 7f0f604e-f08b-43c5-8add-d918a302afed,sandwich.pink,available,14.99,,high,low,8,name.com,,,
-12f558db-e7c2-4a86-86f9-03075b15752c,adjustable.pink,available,14.99,37.99,high,low,10,name.com,,,
+12f558db-e7c2-4a86-86f9-03075b15752c,adjustable.pink,available,6.48,31.48,medium,low,10,namecheap,,,21/09/2026 18:40
 ad87ec96-4819-4d23-8276-bf73b35381b1,nashville.pink,premium,625,,high,low,9,name.com,,,
 2f381c3b-10e1-4bf9-84f6-97b039bafd52,romancatholic.pink,available,14.99,,high,low,14,name.com,,,
 4a3e39a8-84d1-43b2-aa5f-be0a30ab124e,necessary.pink,available,14.99,,medium,low,9,name.com,,,
@@ -841,7 +835,7 @@ ad87ec96-4819-4d23-8276-bf73b35381b1,nashville.pink,premium,625,,high,low,9,name
 1adbc0d5-75e7-4899-9c46-d2fe7ad7c78e,mall.pink,resell,,,high,low,4,"DNSPod, Inc.",23/11/2021 13:15,23/11/2030 13:15,
 70247649-f142-4ddf-95e7-e49e7b04752e,danger.pink,available,14.99,,high,low,6,name.com,,,
 77862b67-9670-4d8e-be16-2561845595d8,printable.pink,available,14.99,,high,low,9,name.com,,,
-e488a2af-825d-4092-bb09-a6461d3e7a69,alluring.pink,available,14.99,37.99,high,low,8,name.com,,,
+e488a2af-825d-4092-bb09-a6461d3e7a69,alluring.pink,available,14.49,25.99,medium,low,8,namesilo,,,22/09/2026 01:34
 9eb7273c-bf99-4361-9b9b-aad8ec0f4cef,bumpinto.pink,available,14.99,,medium,low,9,name.com,,,
 f0098298-42d7-42fd-b55f-978f011945ce,butif.pink,available,14.99,,medium,low,6,name.com,,,
 9706f436-5517-431d-940b-0b1f6ad3f77b,diva.pink,available,14.99,,high,low,4,name.com,,,
@@ -887,7 +881,7 @@ f38dc822-d892-49b4-8ddb-233d25f3035f,certain.pink,available,14.99,,high,low,7,na
 80f53710-537a-445d-9553-aea54d5196ec,allusive.pink,available,6.48,31.48,low,low,8,namecheap,,,
 b678d974-fd16-4e90-8143-3481a0b01621,coy.pink,available,14.99,37.99,medium,low,3,name.com,,,
 d1f1a5f6-1fda-4b90-b352-4f7b88e72c24,whothehell.pink,available,14.99,,low,low,12,name.com,,,
-44352996-a9d0-45a1-b790-4583a487ab4d,crucial.pink,available,14.99,37.99,high,low,7,name.com,,,
+44352996-a9d0-45a1-b790-4583a487ab4d,crucial.pink,available,6.48,31.48,medium,low,7,namecheap,,,22/09/2026 00:39
 acaf190a-b993-4fc2-bc73-e971ab155c06,hotpepper.pink,available,14.99,,high,low,10,name.com,,,
 e5fac569-409a-4aac-b287-97d861103fe5,goat.pink,available,14.99,,medium,medium,4,name.com,,,
 e41f9332-ecd5-4b06-bdfb-ee2b75e3a3ec,retained.pink,available,14.99,,medium,low,8,name.com,,,
@@ -909,7 +903,7 @@ eec7b310-01b0-4731-baaf-3267f0e78fec,bastard.pink,available,6.48,31.48,low,low,7
 5d87056c-705d-4158-b898-acef29a7a8cd,condense.pink,available,14.99,,high,low,8,name.com,,,
 42998545-3651-4a53-9925-1f967162aed1,daring.pink,available,6.48,31.48,medium,low,6,namecheap,,,07/08/2026 21:39
 a9acc424-1d10-4d84-aa56-e5b2bb4afc51,spirit.pink,premium,78.54,78.54,high,low,6,namesilo,,,
-a4d44d4b-4a7d-40b3-9f9b-cef1ceba6282,faded.pink,available,14.99,,medium,low,5,name.com,,,
+a4d44d4b-4a7d-40b3-9f9b-cef1ceba6282,faded.pink,available,6.48,31.48,medium,low,5,namecheap,,,22/09/2026 11:25
 9ad74abe-a15f-4c79-8279-161f21c49e7b,portofentry.pink,available,14.99,,low,low,13,name.com,,,
 49a427f7-a9cd-401b-b6da-a19a2194eabd,basilary.pink,available,6.48,31.48,low,low,8,namecheap,,,08/08/2026 22:22
 6003d4da-4188-4b2b-8ed3-db9ae388ace7,modeller.pink,available,14.99,,high,low,8,name.com,,,
@@ -922,11 +916,11 @@ db4bafb3-46e5-4697-8135-a840c740dd96,abrupt.pink,available,6.48,31.48,low,low,6,
 6e284fd4-e276-4842-86c7-4d23cd37a631,atoxic.pink,available,6.48,31.48,low,low,6,namecheap,,,07/08/2026 14:04
 c833400c-fa8a-499a-809e-82305728dbb0,shooting.pink,available,14.99,,medium,low,8,name.com,,,
 62f0067f-c1ed-44e3-b703-3454ee589913,gift.pink,premium,78.54,78.54,high,low,4,namesilo,,,
-234fc593-7f8d-4248-b765-4e18455d6b66,horseback.pink,available,14.99,37.99,high,low,9,name.com,,,
+234fc593-7f8d-4248-b765-4e18455d6b66,horseback.pink,available,14.49,25.99,medium,low,9,namesilo,,,21/09/2026 23:38
 f3994a38-8364-4933-9fb2-ee5e368f0ccd,ann.pink,premium,78.54,78.54,high,low,3,namesilo,,,
 1ad3c315-ddff-4c9f-98e6-e3a5fbb430b1,butter.pink,available,14.99,,high,low,6,name.com,,,
 3950ff65-d96d-4fed-a0bd-12fd5241f4ed,freshasadaisy.pink,available,14.99,,medium,low,16,name.com,,,
-0ae17605-56af-4970-993a-a70758c888ce,rocky.pink,available,14.99,,medium,low,5,name.com,,,
+0ae17605-56af-4970-993a-a70758c888ce,rocky.pink,available,14.49,25.99,low,low,5,namesilo,,,23/09/2026 01:13
 dfb63563-dd70-47ef-826f-e9ab9462ab2c,mixture.pink,available,14.99,,high,low,7,name.com,,,
 e9fef3ed-6ecd-4bc2-89b7-f40ae11e21b6,clumsy.pink,available,14.99,,high,low,6,name.com,,,
 a7eb18b7-d645-4712-8452-206656d5e879,condemn.pink,available,14.99,,medium,low,7,name.com,,,
@@ -947,13 +941,13 @@ ba16704e-befa-4ccb-aeb0-181666c00437,eighty.pink,available,6.48,31.48,low,low,6,
 44f58e11-9b31-43b6-9837-dec4f7ced4ff,toe.pink,available,14.99,,medium,low,3,name.com,,,
 963b28ed-78c6-4fb0-a00c-ebcbe58b8ad9,westminster.pink,available,14.99,,medium,low,11,name.com,,,
 ac3847cc-32d6-4435-a01c-9f192c208797,aldermanic.pink,available,6.48,31.48,low,low,10,namecheap,,,
-631344b7-9636-4461-8aed-973dfe12ef70,abstract.pink,available,14.99,37.99,high,low,8,name.com,,,
+631344b7-9636-4461-8aed-973dfe12ef70,abstract.pink,available,14.49,25.99,medium,low,8,namesilo,,,21/09/2026 15:10
 aa8a9c7c-9a9e-4510-b6ef-276a412aa645,oldage.pink,available,14.99,,low,low,7,name.com,,,
 28fdbcdf-c1ee-4663-864f-60bf4c20bf1b,microphone.pink,available,14.99,,high,low,10,name.com,,,
 406fea14-4589-4a6e-9281-03ac0c35fb31,wonderful.pink,available,14.99,,high,low,9,name.com,,,
 9b5a55ed-61de-489d-a8b0-e5d0f1fbc03f,recipient.pink,available,14.99,,high,low,9,name.com,,,
 f132c1d6-d80d-411d-97e2-af706edfb62a,tortured.pink,available,6.48,31.48,low,low,8,namecheap,,,
-921ae659-4b7c-4c1e-b70a-61e9de18ed5a,alternate.pink,available,14.99,37.99,high,low,9,name.com,,,
+921ae659-4b7c-4c1e-b70a-61e9de18ed5a,alternate.pink,available,14.49,25.99,low,low,9,namesilo,,,22/09/2026 02:29
 4c5d0d08-22c9-4b93-8273-6c6afe902a5e,upset.pink,available,14.99,37.99,high,low,5,name.com,,,
 3f141bbc-3df0-4aad-aaa8-d8bc41bed2bc,talkedabout.pink,available,14.99,,medium,low,12,name.com,,,
 aa6c56b1-3c79-435c-915a-04e6754b49a1,atatime.pink,available,14.99,,medium,low,9,name.com,,,
@@ -965,7 +959,7 @@ d3a2ed56-3322-4fae-b3bf-0fe5e7fce5ce,advertent.pink,available,6.48,31.48,low,low
 bad0c7d5-13a3-4c44-84d6-57d3a137458f,bill.pink,available,14.49,25.99,low,low,4,namesilo,,,19/09/2026 17:00
 af2b0cc1-0731-457b-a521-3f1bf269e09e,goleft.pink,available,14.99,,high,low,7,name.com,,,
 546c451e-ddd1-4906-9f96-50163bf325ee,ignite.pink,available,14.99,,high,low,6,name.com,,,
-1a874054-3347-4d20-a793-5532ebdb7a5d,engineering.pink,available,14.49,25.99,medium,low,11,namesilo,,,19/09/2026 11:00
+1a874054-3347-4d20-a793-5532ebdb7a5d,engineering.pink,available,14.49,25.99,medium,low,11,namesilo,,,23/09/2026 05:12
 90e8e163-cfb9-40ff-bbd6-7f68ebbd897a,affectionate.pink,available,14.99,,high,low,12,name.com,,,
 f6599ea0-2d76-4e13-b93d-3365d03fce59,bemused.pink,available,6.48,31.48,low,low,7,namecheap,,,07/08/2026 11:47
 4c86f1da-f006-434a-8532-a64160c462ca,agone.pink,available,6.48,31.48,low,low,5,namecheap,,,
@@ -975,7 +969,7 @@ f5a58a9a-2700-430d-8b15-3375b37bbc2f,berrylike.pink,available,6.48,31.48,low,low
 ce52f346-af1f-4ff4-932a-1c700733a39d,british.pink,available,14.99,,high,low,7,name.com,,,
 c1d31fca-7f3e-4f21-bd70-74ff050a482b,crackers.pink,available,6.48,31.48,low,low,8,namecheap,,,06/08/2026 20:45
 be06c7d6-943a-40e7-85c6-22407b64ef0b,newfound.pink,available,6.48,31.48,low,low,9,namecheap,,,08/09/2026 04:48
-cfa27157-8dcd-4a4d-8bb7-4673473c24a5,tedious.pink,available,14.99,,medium,low,7,name.com,,,
+cfa27157-8dcd-4a4d-8bb7-4673473c24a5,tedious.pink,available,14.49,25.99,low,low,7,namesilo,,,23/09/2026 00:32
 d05a4722-61fb-43c6-bd7d-57952e04453f,beady.pink,available,6.48,31.48,low,low,5,namecheap,,,09/08/2026 03:23
 0bc2b476-61b8-4095-8b8a-796c8e6af439,express.pink,available,14.99,,high,low,7,name.com,,,
 4f3341c3-da93-4f25-acc7-f51fad4934e0,choir.pink,available,14.99,,high,low,5,name.com,,,
@@ -985,17 +979,23 @@ d05a4722-61fb-43c6-bd7d-57952e04453f,beady.pink,available,6.48,31.48,low,low,5,n
 b6ea62cd-a749-4324-9299-b6fedd258f8c,hipaa.pink,available,14.99,,medium,low,5,name.com,,,
 fead3524-84e5-41a0-b1fe-03a0bf979883,rightatrium.pink,available,14.99,,low,low,12,name.com,,,
 786dd2ff-8adc-4312-beb6-46bd76de1294,watercooler.pink,available,14.99,,high,low,12,name.com,,,
-51cc9f01-26a8-4a5b-9cc3-377782c8fbad,crimson.pink,available,14.99,,high,low,7,name.com,,,
+51cc9f01-26a8-4a5b-9cc3-377782c8fbad,crimson.pink,available,14.49,25.99,medium,low,7,namesilo,,,22/09/2026 22:28
 97433acf-1282-4383-8854-055bc7ee561a,comeright.pink,available,14.99,,high,low,10,name.com,,,
 81a80bf9-86da-4407-a5ea-c31a3286ad04,age.pink,available,14.49,25.99,medium,low,3,namesilo,,,19/09/2026 07:13
 235effc8-5f06-46df-bfa1-c8521c111a08,safesex.pink,available,14.99,,medium,low,8,name.com,,,
 e41a5d2f-f88e-4ddd-a4d5-d8fc479fb601,concluded.pink,available,6.48,31.48,low,low,9,namecheap,,,
 2f8d82b0-0cff-4fa2-852f-017e9a13db94,stuck.pink,available,14.99,,medium,low,5,name.com,,,
 a0add965-6e51-4350-a8da-7f77bad0b2ee,cockmaster.pink,available,14.99,,medium,low,10,name.com,,,
-26241f49-9029-40c0-8a7d-e739aa086fdf,nimble.pink,available,14.99,37.99,high,low,6,name.com,,,
+26241f49-9029-40c0-8a7d-e739aa086fdf,nimble.pink,available,14.49,25.99,medium,low,6,namesilo,,,21/09/2026 23:05
 16edd8e3-6c2d-4ff8-aed1-d4750920a0b4,pressed.pink,available,14.99,,medium,low,7,name.com,,,
 28448910-83e5-4fbb-961b-be569ccfc2a3,luncheonsausage.pink,available,14.99,,high,low,16,name.com,,,
 d7bd3ad7-8cf2-465a-82e2-6e1597c83f0d,closely.pink,available,14.99,,medium,low,7,name.com,,,
 10fe7d88-2675-4513-aaa0-4cd69b9d6e04,struggle.pink,available,14.99,,high,low,8,name.com,,,
 5d66e012-1789-4001-98ed-8b080c81a8ec,choose.pink,available,14.99,,high,low,6,name.com,,,
 acc6ad58-4b5d-42a8-ae4d-e5921b80d383,concoct.pink,available,14.99,,high,low,7,name.com,,,
+1e951b5c-324b-46ed-b128-d3632e93ddcb,thoseones.pink,available,14.99,,low,low,10,name.com,,,
+c8c7d102-af74-46a5-b738-99f20fec0f97,solely.pink,available,6.48,31.48,low,low,6,namecheap,,,
+ac6229e2-8020-45e5-b275-2c13666002e6,acold.pink,available,6.48,31.48,low,low,5,namecheap,,,
+a584ab10-9b84-4006-a787-77b2921d3528,howareyoudoing.pink,available,14.99,,medium,low,17,name.com,,,
+8f39baaf-6d5d-43d6-8ff7-0847037aaae2,askant.pink,available,6.48,31.48,low,low,6,namecheap,,,07/08/2026 03:05
+521ea024-9fde-424f-8565-f31d99a03cb7,senseofsmell.pink,available,14.99,,low,low,14,name.com,,,
