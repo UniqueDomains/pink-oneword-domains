@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pink one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,184 domains · **Median ask:** $18.53 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/pink`
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | con.pink     | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
 | super.pink   | resell    | —         | —             | medium         | medium | 5      | DNSPod, Inc.                                 |
 | kit.pink     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                     |
-| coy.pink     | available | $14.99    | $37.99        | medium         | low    | 3      | name.com                                     |
+| coy.pink     | available | $14.49    | $25.99        | low            | low    | 3      | namesilo                                     |
 | verse.pink   | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
 | nyc.pink     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                     |
 | die.pink     | available | $14.99    | —             | medium         | low    | 3      | name.com                                     |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
