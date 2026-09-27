@@ -1,10 +1,10 @@
-# Available .PINK One-Word Domains (32,161)
+# Available .PINK One-Word Domains (22,398)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C161%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C398%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pink one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,161 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,398 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,161 domains · **Median ask:** $18.45 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,398 domains · **Median ask:** $23.93 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/pink`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| ain.pink   | available | $6.48     | $31.48        | high           | low    | 3      | namecheap                                    |
-| city.pink  | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                              |
-| ana.pink   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| ale.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
-| mall.pink  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
-| ann.pink   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| bid.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
-| pink.pink  | resell    | —         | —             | high           | low    | 4      | Dynadot7 LLC                                 |
-| atp.pink   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| boo.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
-| block.pink | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
-| car.pink   | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap                                    |
-| con.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
-| cloud.pink | resell    | —         | —             | high           | medium | 5      | Unstoppable Domains Inc                      |
-| kit.pink   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| die.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
-| shine.pink | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
-| nyc.pink   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                     |
-| fig.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
-| super.pink | resell    | —         | —             | high           | medium | 5      | DNSPod, Inc.                                 |
+| auc.pink   | available | $14.49    | $25.99        | high           | low    | 3      | namesilo                                     |
+| red.pink   | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| bat.pink   | premium   | $650      | $650          | high           | low    | 3      | namecheap                                    |
+| awl.pink   | available | $6.48     | $31.48        | high           | low    | 3      | namecheap                                    |
+| very.pink  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| msg.pink   | premium   | $82.50    | —             | high           | low    | 3      | name.com                                     |
+| axe.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| warm.pink  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| jade.pink  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                     |
+| dig.pink   | available | $14.49    | $25.99        | high           | low    | 3      | namesilo                                     |
+| media.pink | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                              |
+| tool.pink  | premium   | $640      | $640          | high           | low    | 4      | namesilo                                     |
+| eta.pink   | available | $14.49    | $25.99        | high           | low    | 3      | namesilo                                     |
+| emily.pink | premium   | $640      | $640          | high           | medium | 5      | namesilo                                     |
+| gao.pink   | available | $14.49    | $25.99        | high           | low    | 3      | namesilo                                     |
+| laura.pink | premium   | $625      | —             | high           | low    | 5      | name.com                                     |
+| gyp.pink   | available | $6.48     | $31.48        | medium         | low    | 3      | namecheap                                    |
+| paint.pink | premium   | $2,500    | —             | high           | low    | 5      | name.com                                     |
+| hep.pink   | available | $6.48     | $31.48        | high           | low    | 3      | namecheap                                    |
+| state.pink | premium   | $78.54    | $78.54        | high           | medium | 5      | namesilo                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,161 live domains                        |
+| 1,000-row public sample | 22,398 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PINK One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
