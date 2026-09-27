@@ -1,10 +1,10 @@
-# Available .PINK One-Word Domains (22,398)
+# Available .PINK One-Word Domains (22,780)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C398%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C780%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .pink one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,398 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,780 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,398 domains · **Median ask:** $23.93 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 22,780 domains · **Median ask:** $24.70 · **High-demand under $2,500:** 3
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/pink`
@@ -65,16 +65,15 @@ print(df.head())
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | auc.pink   | available | $14.49    | $25.99        | high           | low    | 3      | namesilo                                     |
-| red.pink   | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| very.pink  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
 | bat.pink   | premium   | $650      | $650          | high           | low    | 3      | namecheap                                    |
 | awl.pink   | available | $6.48     | $31.48        | high           | low    | 3      | namecheap                                    |
-| very.pink  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| warm.pink  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | msg.pink   | premium   | $82.50    | —             | high           | low    | 3      | name.com                                     |
 | axe.pink   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
-| warm.pink  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| media.pink | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                              |
 | jade.pink  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                     |
 | dig.pink   | available | $14.49    | $25.99        | high           | low    | 3      | namesilo                                     |
-| media.pink | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                              |
 | tool.pink  | premium   | $640      | $640          | high           | low    | 4      | namesilo                                     |
 | eta.pink   | available | $14.49    | $25.99        | high           | low    | 3      | namesilo                                     |
 | emily.pink | premium   | $640      | $640          | high           | medium | 5      | namesilo                                     |
@@ -84,6 +83,7 @@ print(df.head())
 | paint.pink | premium   | $2,500    | —             | high           | low    | 5      | name.com                                     |
 | hep.pink   | available | $6.48     | $31.48        | high           | low    | 3      | namecheap                                    |
 | state.pink | premium   | $78.54    | $78.54        | high           | medium | 5      | namesilo                                     |
+| ilx.pink   | available | $6.48     | $31.48        | medium         | low    | 3      | namecheap                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,398 live domains                        |
+| 1,000-row public sample | 22,780 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
